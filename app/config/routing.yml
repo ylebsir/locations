@@ -1,0 +1,7 @@
+locations:
+    resource: "@LocationsBundle/Resources/config/routing.yml"
+    prefix:   /locations/
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
